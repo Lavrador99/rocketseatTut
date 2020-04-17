@@ -1,0 +1,12 @@
+{
+  "name": "rocketseattut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lavrador99/rocketseatTut.git",
+  "author": "alex1lavrador <alex1lavrador@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.9.5"
+  }
+}
